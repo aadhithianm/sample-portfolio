@@ -1,0 +1,21 @@
+{
+  "name": "developer-portfolio-template",
+  "version": "1.0.0",
+  "description": "Ultra-sleek, responsive developer portfolio template with smooth animations, interactive canvas background, terminal CLI, and Tailwind CSS.",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "preview": "python -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer-portfolio",
+    "tailwind-css",
+    "gsap",
+    "lenis",
+    "creative-developer",
+    "single-file"
+  ],
+  "author": "Alex Carter",
+  "license": "MIT"
+}
